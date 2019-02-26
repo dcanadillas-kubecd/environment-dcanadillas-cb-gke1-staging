@@ -1,7 +1,7 @@
 dependencies:
 - name: cloudbees-godemo
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.3
+  version: 0.0.6
 - name: cloudbees-springdemo
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
